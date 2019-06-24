@@ -1,8 +1,8 @@
 ---
 title: Hexo建站之路
 date: 2019-03-01 11:51:38
-tags: [hexo]
-categories: [hexo]
+tags: [Hexo]
+categories: [Hexo]
 ---
 
 ## 为什么会有这个博客
